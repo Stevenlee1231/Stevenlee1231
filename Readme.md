@@ -7,6 +7,7 @@
     <br />
     <br />
   </samp>
+  | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyang0210&layout=compact&theme=buefy&hide_border=true" /> </a>
 </p>
 
 <br />
